@@ -1,0 +1,14 @@
+{
+  "name": "evolution-api-sdk",
+  "module": "src/examples/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
